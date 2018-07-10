@@ -1,3 +1,0 @@
-Unstaged changes after reset:
-M	a.txt
-D	aaaa.txt
