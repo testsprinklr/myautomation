@@ -9,6 +9,7 @@ public class Testing {
     @Test
     public void cool() {
         Assert.assertTrue(true);
+        System.out.println("Hey Cool");
     }
 
     @Test
